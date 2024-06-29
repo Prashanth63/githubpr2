@@ -1,3 +1,5 @@
 hello prashanth 3
 Name: Prashanth
+age: 29
+sex: male
 
